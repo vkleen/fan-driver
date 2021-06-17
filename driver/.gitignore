@@ -27,6 +27,4 @@ fp-info-cache
 *.xml
 *.csv
 
-greenpak-fw/atx-control
-greenpak-fw/*.json
-greenpak-fw/*.vcd
+*.FCStd1
