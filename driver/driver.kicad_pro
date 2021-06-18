@@ -426,6 +426,7 @@
           "/EN_3.3V",
           "/FAN_5V",
           "/FAN_PWM",
+          "/FAN_PWM_LV",
           "/FAN_PWR",
           "/FAN_TACHO",
           "/FAN_VOLTAGE_SEL",
