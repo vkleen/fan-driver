@@ -44,8 +44,8 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
-          "min_clearance": 0.13
+          "45_degree_only": true,
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -59,6 +59,7 @@
         "courtyards_overlap|73262283|74936899|a0bba34f-8153-421a-971a-b62cf30572b3|e3e2ce74-448d-4212-816f-82d55365f2fc",
         "courtyards_overlap|73581974|76130001|08c6d864-b70a-4b89-b913-c7a6ac8243fa|a0bba34f-8153-421a-971a-b62cf30572b3",
         "courtyards_overlap|73876718|77230001|08c6d864-b70a-4b89-b913-c7a6ac8243fa|a0bba34f-8153-421a-971a-b62cf30572b3",
+        "courtyards_overlap|76250001|76000000|a0bba34f-8153-421a-971a-b62cf30572b3|cfdb6663-5c01-4027-82f4-66afb1e91c91",
         "courtyards_overlap|76250001|76000000|cfdb6663-5c01-4027-82f4-66afb1e91c91|a0bba34f-8153-421a-971a-b62cf30572b3"
       ],
       "meta": {
@@ -441,7 +442,6 @@
           "/SW1",
           "/SW2",
           "Net-(C103-Pad1)",
-          "Net-(Q101-Pad4)",
           "Net-(Q102-Pad4)",
           "Net-(R104-Pad2)",
           "Net-(R114-Pad1)",
